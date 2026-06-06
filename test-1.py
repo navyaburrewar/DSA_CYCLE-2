@@ -18,3 +18,6 @@ def peak(arr):
     return low
 
 print(peak([1,2,5,7,6,3]))
+
+
+
