@@ -1,7 +1,7 @@
 #17-08-26
 #Binary tree=====================
-
 """
+
 class Node:
 
     def __init__(self, data):
