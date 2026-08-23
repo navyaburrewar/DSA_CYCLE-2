@@ -114,6 +114,18 @@ levelorder(Node)
             
 
 
+
+# class Node:
+#     def __init__(self,data):
+#         self.data=data
+#         self.left=None
+#         self.right=None
+# def bst(node,value):
+#     if node is None:
+#         return 
+#     if value<node.
+            
+
                 
 
 
