@@ -1,6 +1,6 @@
 # Dutch National Flag Algorithm
 
-
+# dutch national flag algorithum
 
 # class Solution:
 #     def sortColors(self, nums: List[int]) -> None:
