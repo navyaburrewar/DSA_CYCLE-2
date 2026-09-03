@@ -17,7 +17,7 @@ def peak(arr):
             high=mid 
     return low
 
-print(peak([1,2,5,7,6,3]))
+print(peak([1,2,5,7,11,3]))
 
 
 
