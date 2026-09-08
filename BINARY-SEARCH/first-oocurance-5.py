@@ -18,5 +18,5 @@ def first_occurance(arr,target):
             end=mid-1
     return ans
 
-print(first_occurance([18,11,2,0,3,1,500,5],99))
+print(first_occurance([18,11,112,0,3,1,500,5],99))
                
