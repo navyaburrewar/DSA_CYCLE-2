@@ -27,4 +27,4 @@ def lower_bound(arr, target):    # [1,2,3,4,6]    t=4
             low = mid + 1
 
     return ans
-print(lower_bound([2,4,6,8],6))
+print(lower_bound([2,4,6,8],7))
