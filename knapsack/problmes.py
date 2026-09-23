@@ -57,3 +57,17 @@ answer = knapsack(
 )
 
 print(answer)
+
+
+
+"First, we pass weights, values, capacity and n into the function. "
+"Then we check the base condition."
+" If there are no items left or no capacity left, we return 0."
+" Otherwise, we look at the current item using n - 1 and check whether its weight fits in the current capacity. "
+"If it doesn't fit, we have no choice except to skip it and recursively move to the next item."
+" If it fits, we have two choices: TAKE or SKIP."
+" If we TAKE it, we add its value, reduce the capacity by its weight, and reduce n by 1."
+" If we SKIP it, the capacity stays the same and n is reduced by 1. "
+"Both choices recursively continue until the base condition. "
+"When the recursive calls return, we compare TAKE and SKIP using max() and return the larger value."
+" Finally, the first function call receives the maximum possible value."
