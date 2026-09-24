@@ -38,7 +38,7 @@ def knapsack(weights, values, capacity, n):
 # -------------------------
 
 weights = [2, 3, 6]
-values = [4, 5, 7]
+values = [3, 5, 7]
 
 capacity = 5
 
