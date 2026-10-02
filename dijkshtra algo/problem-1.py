@@ -5,7 +5,7 @@ def dij(graph,st):
     for node in graph:
         dis[node]=float("inf")
                         
-        prev[node]=node
+        prev[node]=None
 
     dis[st]=0
     pri_que=[(0,st)]
@@ -30,7 +30,7 @@ graph={
     "D":[("A",8),("B",5),("E",3),("F",2)],
     "E":[("B",6),("D",3),("F",1),("C",9)],
     "F":[("D",2),("E",1),("C",3)],
-    "C":[("E",9),("F",3)]
+    "C":[("E",9),("F",5)]
 
 }
 
