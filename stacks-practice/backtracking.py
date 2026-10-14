@@ -1,4 +1,6 @@
+# problem
 # given a number n- generate all strs of len n using only 'A' & 'B'
+
 
 
 def generate(s, n):
