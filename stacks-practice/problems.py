@@ -43,10 +43,21 @@ Order	Topic	Priority
 
 # Balanced parentheses	High
 
-class Stack:
-    def __init__(self):
-        self.Stack=[]
-        
+# class Stack:
+#     def __init__(self):
+#         self.Stack=[]
+#     parenthesis={
+#         "(":")",
+#         "{":"}",
+#         "[":"]"
+#     }    
+#     def push(self,x):
+#         self.satck.append(x)
+#     def pop(self):
+#         return self.stack.pop()
+#     def is_empty(self):
+#         return len(self.stack) == 0
+    
 
 
 
