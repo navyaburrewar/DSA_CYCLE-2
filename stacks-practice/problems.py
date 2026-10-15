@@ -41,7 +41,7 @@ Order	Topic	Priority
 8	Dijkstra's Algorithm	Very high
 """
 
-# Balanced parentheses	High problem
+# Balanced parentheses	High problem...
 
 # class Stack:
 #     def __init__(self):
