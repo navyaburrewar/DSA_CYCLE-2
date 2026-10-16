@@ -20,7 +20,7 @@ class Stack:
 s=Stack()
 s.push(20)
 s.push(40)
-s.push(50)
+s.push(34)
 
 print(s.peek())
 print(s.pop())
