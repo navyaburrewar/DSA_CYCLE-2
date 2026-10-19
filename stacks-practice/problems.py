@@ -18,7 +18,7 @@ class Stack:
         return len(self.Stack)==0
         
 s=Stack()
-s.push(20)
+s.push(28)
 s.push(40)
 s.push(34)
 s.push(90)
