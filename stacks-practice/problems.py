@@ -24,6 +24,7 @@ s.push(39)
 s.push(90)
 s.push(100)
 s.push(50)
+s.push(90)
 
 print(s.peek())
 print(s.pop())
