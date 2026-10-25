@@ -56,9 +56,10 @@ def counting_sort(arr):
 
     return output
 
-arr=[9,4,8,1,3]
+arr=[9,4,8,1,3,8]
 
 print(counting_sort(arr))
+
 
 
 
