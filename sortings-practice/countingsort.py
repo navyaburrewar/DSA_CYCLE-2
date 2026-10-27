@@ -57,7 +57,7 @@ def counting_sort(arr):
                                  # output[count[8]-1]=8---> output[3]=8
     return output               # output[count[4]-1]=4---> output[2]=4    
                                 # output[count[9]-1]=9---> output[5]=9
-arr=[9,4,8,1,3,8]
+arr=[9,4,8,1,3,8,7]
 
 print(counting_sort(arr))
 
