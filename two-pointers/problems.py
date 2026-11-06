@@ -15,7 +15,7 @@
 
 ## 	Reverse String  
 
-s=["n","a","q","y","y","a"]
+s=["n","a","q","a","y","a"]
 
 
 left=0
